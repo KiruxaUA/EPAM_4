@@ -1,4 +1,4 @@
-package receiptcalculation;
+package ua.epam3.receiptcalculation;
 
 public class Main {
     public static void main(String[] args) {

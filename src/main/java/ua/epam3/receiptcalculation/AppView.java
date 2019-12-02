@@ -1,4 +1,4 @@
-package receiptcalculation;
+package ua.epam3.receiptcalculation;
 
 import java.util.Scanner;
 

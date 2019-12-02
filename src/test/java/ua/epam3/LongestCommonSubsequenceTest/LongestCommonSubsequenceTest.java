@@ -1,6 +1,6 @@
-package LongestCommonSubsequenceTest;
+package ua.epam3.LongestCommonSubsequenceTest;
 
-import longestcommonsubsequence.LongestCommonSubsequence;
+import ua.epam3.longestcommonsubsequence.LongestCommonSubsequence;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

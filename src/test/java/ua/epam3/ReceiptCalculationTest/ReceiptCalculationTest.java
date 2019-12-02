@@ -1,7 +1,7 @@
-package ReceiptCalculationTest;
+package ua.epam3.ReceiptCalculationTest;
 
 import org.junit.Test;
-import receiptcalculation.*;
+import ua.epam3.receiptcalculation.*;
 
 import static org.junit.Assert.assertEquals;
 

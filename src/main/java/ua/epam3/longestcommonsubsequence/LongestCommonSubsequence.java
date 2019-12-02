@@ -1,4 +1,4 @@
-package longestcommonsubsequence;
+package ua.epam3.longestcommonsubsequence;
 
 public class LongestCommonSubsequence {
     public static String getLongestCommonSubsequence(String str1, String str2) {
